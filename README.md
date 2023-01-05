@@ -3,7 +3,7 @@
 
 [![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 
---
+---
 
 ### :pushpin: Pinned Repositories :
 
@@ -15,7 +15,7 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rassellek&repo=4p22-final-project-ruslan-nurgaleev&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
---
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -30,13 +30,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
---
+---
 
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rassellek&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
---
+---
 ### :telephone: Contacts :
 
 <div id="badges">
