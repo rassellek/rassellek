@@ -4,14 +4,14 @@
 ---
 
 ---
-### :telephone:
+### :telephone: Contacts:
 
 <div id="badges">
   <a href="https://wa.me/79520411322?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%20%F0%9F%91%8B">
     <img src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" title="WhatsApp" alt="WhatsApp" width="40" height="40"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://t.me/@rassellek">
+    <img src="https://github.com/png2378/telegram-icon-updater/blob/master/icons/icomute_22_0.png" title="telegram" alt="telegram" width="40" height="40"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
