@@ -1,6 +1,16 @@
 ### Всем привет! Я Руслан - JUNIOR FRONT-END DEVELOPER 👋 
 <img src="https://komarev.com/ghpvc/?username=rassellek&style=flat-square&color=blue" alt=""/>
 
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+
+<a href="https://github.com/rassellek/flappy-bird">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rassellek&repo=flappy-bird-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<br>
+<a href="https://github.com/rassellek/4p22-final-project-ruslan-nurgaleev">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rassellek&repo=4p22-final-project-ruslan-nurgaleev&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
