@@ -11,7 +11,9 @@
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rassellek&repo=4p22-final-project-ruslan-nurgaleev&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&langs_count=2" />
 </a>
 <br>
-
+<a href="https://github.com/rassellek/flappy-bird">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rassellek&repo=flappy-bird&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
 ---
 
