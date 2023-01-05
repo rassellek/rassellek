@@ -2,6 +2,9 @@
 <img src="https://komarev.com/ghpvc/?username=rassellek&style=flat-square&color=blue" alt=""/>
 
 [![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+---
+
+### :pushpin: Pinned Repositories :
 
 <a href="https://github.com/rassellek/flappy-bird">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rassellek&repo=flappy-bird&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -33,7 +36,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rassellek&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### :telephone: Contacts:
+### :telephone: Contacts :
 
 <div id="badges">
   <a href="https://wa.me/79520411322?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%20%F0%9F%91%8B">
