@@ -13,10 +13,11 @@
   <a href="https://t.me/rassellek">
     <img src="https://github.com/rdimascio/icons/blob/master/icons/telegram.svg" title="telegram" alt="telegram" width="40" height="40"/>
   </a>
-  <a href="www.instagram.com/rassellek/">
+  <a href="https://instagram.com/rassellek/">
     <img src="https://github.com/rdimascio/icons/blob/master/icons/instagram.svg" title="instagram" alt="instagram" width="40" height="40"/>
   </a>
 </div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
