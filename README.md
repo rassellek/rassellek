@@ -13,8 +13,8 @@
   <a href="https://t.me/rassellek">
     <img src="https://github.com/rdimascio/icons/blob/master/icons/telegram.svg" title="telegram" alt="telegram" width="40" height="40"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="www.instagram.com/rassellek/">
+    <img src="https://github.com/rdimascio/icons/blob/master/icons/instagram.svg" title="instagram" alt="instagram" width="40" height="40"/>
   </a>
 </div>
 ---
