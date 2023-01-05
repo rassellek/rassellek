@@ -3,23 +3,6 @@
 
 ---
 
----
-### :telephone: Contacts:
-
-<div id="badges">
-  <a href="https://wa.me/79520411322?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%20%F0%9F%91%8B">
-    <img src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" title="WhatsApp" alt="WhatsApp" width="40" height="40"/>
-  </a>
-  <a href="https://t.me/rassellek">
-    <img src="https://github.com/rdimascio/icons/blob/master/icons/telegram.svg" title="telegram" alt="telegram" width="40" height="40"/>
-  </a>
-  <a href="https://instagram.com/rassellek/">
-    <img src="https://github.com/rdimascio/icons/blob/master/icons/instagram.svg" title="instagram" alt="instagram" width="40" height="40"/>
-  </a>
-</div>
-
----
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -38,3 +21,19 @@
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rassellek&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+### :telephone: Contacts:
+
+<div id="badges">
+  <a href="https://wa.me/79520411322?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%20%F0%9F%91%8B">
+    <img src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" title="WhatsApp" alt="WhatsApp" width="40" height="40"/>
+  </a>
+  <a href="https://t.me/rassellek">
+    <img src="https://github.com/rdimascio/icons/blob/master/icons/telegram.svg" title="telegram" alt="telegram" width="40" height="40"/>
+  </a>
+  <a href="https://instagram.com/rassellek/">
+    <img src="https://github.com/rdimascio/icons/blob/master/icons/instagram.svg" title="instagram" alt="instagram" width="40" height="40"/>
+  </a>
+</div>
+
